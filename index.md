@@ -22,8 +22,10 @@
 		<td align="center"><font size="+6" color="black"><p>Howdy!</p></font>
 			<font size="+3" color="red">
 			<p>Welcome to my TCMG 303 website</p></font>
-			<font size="+2" color="red"><p>My name is Todd Weaver</p></font>
-			<font size="+2" color="red"><p>Thank you for visiting my web site...</p></font></td>
+			<font size="+2" color="red"><p>Todd Weaver</p></font>
+			<font size="+2" color="red"><p>Corps of Cadets Cyber Operations Special Unit Commander</p></font>
+			<font size="+2" color="red"><p>The Nationally Famous Fightin Texas Aggie Band</p></font>
+			<font size="+2" color="red"><p>Drive, Diligence, & Discipline</p></font></td>
       <td><img src="lab-rack.jpg" width="223" height="300" alt=""/></td>
     </tr>
     <tr>
