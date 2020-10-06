@@ -1,6 +1,5 @@
 <html>
 <head>
-<meta charset="utf-8">
 <title>TCMG 303 - Lab 5 Personal Website</title>
 </head>
 
