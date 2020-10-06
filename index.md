@@ -3,14 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>TCMG 303 - Lab 5 Personal Website</title>
-<style>
-	body {
-		background-image: url('CyberOperationsLogo.PNG');
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background-size: cover;
-		}
-</style> 
 </head>
 	 
 <body>
