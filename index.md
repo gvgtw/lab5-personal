@@ -26,7 +26,7 @@
 			<font size="+2" color="red"><p>Corps of Cadets Cyber Operations Special Unit Commander</p></font>
 			<font size="+2" color="red"><p>The Nationally Famous Fightin Texas Aggie Band</p></font>
 			<font size="+2" color="red"><p> Semper Pulsus</p></font></td>
-      <td><img src="CyberOperationsLogo.PNG" width="320" height="300" alt=""/></td>
+      <td><img src="b-co.png" width="223" height="300" alt=""/></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
