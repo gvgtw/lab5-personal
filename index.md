@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -20,11 +19,11 @@
     </tr>
     <tr>
       <td><img src="DrD.jpg" width="223" height="300" alt=""/></td>
-		<td align="center"><font size="+6" color="red"><p>Howdy!</p></font>
-			<font size="+3" color="blue">
+		<td align="center"><font size="+6" color="black"><p>Howdy!</p></font>
+			<font size="+3" color="red">
 			<p>Welcome to my TCMG 303 website</p></font>
-			<font size="+2" color="orange"><p>My name is Dr. D</p></font>
-			<font size="+2" color="green"><p>Thank you for visiting my web site...</p></font></td>
+			<font size="+2" color="red"><p>My name is Todd Weaver</p></font>
+			<font size="+2" color="red"><p>Thank you for visiting my web site...</p></font></td>
       <td><img src="lab-rack.jpg" width="223" height="300" alt=""/></td>
     </tr>
     <tr>
