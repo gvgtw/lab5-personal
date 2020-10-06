@@ -5,6 +5,13 @@
 </head>
 
 <body>
+	 <style>
+		body {
+ 	 		background-image: url('CyberOperationsLogo.PNG');
+ 	 		background-repeat: no-repeat;
+  			background-attachment: fixed;
+  			background-size: cover;
+			}
 <table width="200" border="2" align="center">
   <tbody>
     <tr>
@@ -35,5 +42,6 @@
     </tr>
   </tbody>
 </table>
+</style> 	 
 </body>
 </html>
