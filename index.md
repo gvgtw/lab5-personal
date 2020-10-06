@@ -9,7 +9,7 @@
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td><img src="techmanage.png" width="611" height="106" alt=""/></td>
+      <td><img src="ftabEmblem.png" width="611" height="106" alt=""/></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
