@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<table width="200" border="2" align="left">
+<table width="200" border="2" align="center">
   <tbody>
     <tr>
       <td>&nbsp;</td>
@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td><img src="tjWeaverPic.jpg" width="223" height="300" alt=""/></td>
-		<td align="center"><font size="+6" color="black"><p>Howdy!</p></font>
+		<td align="top"><font size="+6" color="black"><p>Howdy!</p></font>
 			<font size="+3" color="red">
 			<p>Welcome to my TCMG 303 website</p></font>
 			<font size="+2" color="red"><p>Todd Weaver</p></font>
