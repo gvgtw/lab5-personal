@@ -12,6 +12,7 @@
   			background-attachment: fixed;
   			background-size: cover;
 			}
+	</style> 	 
 <table width="200" border="2" align="center">
   <tbody>
     <tr>
@@ -41,7 +42,6 @@
 	  <td>&nbsp;</td>
     </tr>
   </tbody>
-</table>
-</style> 	 
+</table>	 
 </body>
 </html>
