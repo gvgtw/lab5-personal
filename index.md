@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<table width="270" border="2" align="center">
+<table width="200" border="2" align="center">
   <tbody>
     <tr>
       <td>&nbsp;</td>
@@ -14,9 +14,6 @@
     </tr>
     <tr>
       <td>&nbsp;</td>
-    <tr>
-	    <font size="+2" color="red"><p> Semper Pulsus</p></font></td>
-	  </tr>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
@@ -28,6 +25,7 @@
 			<font size="+2" color="red"><p>Todd Weaver</p></font>
 			<font size="+2" color="red"><p>Corps of Cadets Cyber Operations Special Unit Commander</p></font>
 			<font size="+2" color="red"><p>The Nationally Famous Fightin Texas Aggie Band</p></font>
+			<font size="+2" color="red"><p> Semper Pulsus</p></font></td>
       <td><img src="b-co.png" width="223" height="300" alt=""/></td>
     </tr>
     <tr>
