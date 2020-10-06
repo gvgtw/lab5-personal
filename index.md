@@ -18,7 +18,7 @@
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><img src="DrD.jpg" width="223" height="300" alt=""/></td>
+      <td><img src="tjWeaverPic.jpg" width="223" height="300" alt=""/></td>
 		<td align="center"><font size="+6" color="black"><p>Howdy!</p></font>
 			<font size="+3" color="red">
 			<p>Welcome to my TCMG 303 website</p></font>
